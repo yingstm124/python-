@@ -1,0 +1,11 @@
+﻿Film,Country of origin,big star,genre,success
+1,USA,yes,Science,TRUE
+2,USA,no,Comedy,FALSE
+3,USA,yes,Comedy,TRUE
+4,Europe,no,Comedy,TRUE
+5,Europe,yes,Science,FALSE
+6,Europe,yes,Romance,FALSE
+7,Rest of world,yes,Comedy,FALSE
+8,Rest of world,no,Science,FALSE
+9,Europe,yes,Comedy,TRUE
+10,USA,yes,Comedy,TRUE
